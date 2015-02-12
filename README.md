@@ -1,2 +1,2 @@
 # saltwater-digital
-![Alt Saltwater Digital Logo](http://saltwater.digital/logo-2.html "Saltwater Digital Logo")
+![Alt Saltwater Digital Logo](http://saltwater.digital/images/Saltwater-Digital-Logo-White-Background.png "Saltwater Digital Logo")
