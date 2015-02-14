@@ -341,7 +341,7 @@ $(document).ready(function($) {
 	-------------------------------------------- */
     $(function() {
         $(".type_text").typed({
-            strings: ["present your App.", "describe App."],
+            strings: ["professionional.", "leave it to the professionals."],
             typeSpeed: 230,
             backDelay: 500,
             loop: true
