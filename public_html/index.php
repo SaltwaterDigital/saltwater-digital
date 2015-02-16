@@ -60,7 +60,7 @@
                     <div class="row">
                         <div class="slider-inner">				
                             <div class="col-md-12 left-part text-center">					
-                                <h1>We Are Here to Enhance Your Business</h1>															
+                                <h1>Where Passion Meets Reality</h1>															
                                 <!--<p class="white text-left">Pellentesque sapien purus, sagittis eu accumsan convallis, vehicula ut lectus. Fusce accumsan purus pretium ligula vehicula, interdum nisl vulputate. Vivamus ultrices luctus quam eu feugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do usmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam. </p>-->
                                 <p class="form-message2 white" style="display: none; color:#FFFFFF;"></p>	
                                 <form id="contactform2" name="contactform2" method="post" action="mail/subscription2.php">
