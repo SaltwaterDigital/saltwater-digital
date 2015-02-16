@@ -303,9 +303,9 @@ $(document).ready(function($) {
 	------------------------------------------------- */
     $(function() {
 		function initialize() {
-			var myLatlng = new google.maps.LatLng(44.5403, -78.5463);
+			var myLatlng = new google.maps.LatLng(27.795928, -82.789923);
 			var mapOptions = {
-				zoom: 8,
+				zoom: 12,
 				disableDefaultUI: true,
 				scrollwheel: false,
 				draggable: false,
@@ -313,10 +313,9 @@ $(document).ready(function($) {
 			};
 			var map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
 			var contentString = '<div id="map-content">' +
-				'<p>Office Names</p>' +
-				'<div> Street Name,</div>' +
-				'<div> City Name, State,</div>' +
-				'<div>Country - xxxxx </div>'
+				'<p>Office:</p>' +
+				'<div>14017 N Bayshore Dr.</div>' +
+				'<div>Madeira Beach, FL 33708</div>' +
 			'</div>';
 			var infowindow = new google.maps.InfoWindow({
 				content: contentString
