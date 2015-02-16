@@ -50,7 +50,7 @@
             
                                 <!-- Logo Begins -->
                                 <div class="site-logo">
-                                    <a title="Logo" href=""><img src="images/Saltwater-Digital-Logo-White-Background.png" style='height:35px;' /> Saltwater <span class="f-logo">Digital</span> </a>
+                                    <a title="Logo" href=""><img src="images/v2.png" style='height:75px;' /></a>
                                 </div><!-- Logo Ends -->								
                             </div>						
                         </div>
@@ -66,7 +66,7 @@
                                 <form id="contactform2" name="contactform2" method="post" action="mail/subscription2.php">
                                     <div class="input-text form-group has-feedback">
                                         <input type="email" placeholder="Enter Your Email Address" class="input-name form-control" name="contact_email">
-                                        <button type="submit" class="btn">Get Started</button>
+                                        <button type="submit" class="btn">Send</button>
                                     </div>
                                 </form>
                             </div>
