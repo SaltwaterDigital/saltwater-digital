@@ -285,7 +285,8 @@ img {
 /* Text Slider */
 /* Header Image */
 .header-image{
-	background:url(../images/bg/slider1.jpg) no-repeat scroll center center / cover  #ffffff;
+	/*background:url(../images/bg/slider1.jpg) no-repeat scroll center center / cover  #ffffff;*/
+	background:url(../images/bg/surfer-girl.jpg) no-repeat scroll center center / cover  #ffffff;
 	height:700px;
 	background-attachment:fixed;
 	max-width:100%;
@@ -1094,7 +1095,8 @@ img {
 }
 /* -------------- Video Bg ------------------ */
 .video-bg{
-	min-height: 650px;
+	/*min-height: 650px;*/
+	min-height: 700px;
 }
 .video-bg:after{
 	background-repeat: repeat;
